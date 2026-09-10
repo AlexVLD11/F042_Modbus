@@ -1,0 +1,11 @@
+../Library/microtbx-modbus/tbxmb_superloop.c:88:6:TbxMbOsalEventInit	8	static
+../Library/microtbx-modbus/tbxmb_superloop.c:109:6:TbxMbOsalEventPost	32	static
+../Library/microtbx-modbus/tbxmb_superloop.c:139:9:TbxMbOsalEventWait	32	static
+../Library/microtbx-modbus/tbxmb_superloop.c:166:6:TbxMbOsalEventPurge	48	static
+../Library/microtbx-modbus/tbxmb_superloop.c:212:15:TbxMbOsalSemCreate	16	static
+../Library/microtbx-modbus/tbxmb_superloop.c:240:6:TbxMbOsalSemFree	24	static
+../Library/microtbx-modbus/tbxmb_superloop.c:269:6:TbxMbOsalSemGive	24	static
+../Library/microtbx-modbus/tbxmb_superloop.c:306:9:TbxMbOsalSemTake	48	static
+../Library/microtbx-modbus/tbxmb_superloop.c:402:13:TbxMbOsalEventQueueClear	8	static
+../Library/microtbx-modbus/tbxmb_superloop.c:419:16:TbxMbOsalEventQueueWrite	24	static
+../Library/microtbx-modbus/tbxmb_superloop.c:462:16:TbxMbOsalEventQueueRead	24	static

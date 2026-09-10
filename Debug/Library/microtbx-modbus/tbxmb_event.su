@@ -1,0 +1,2 @@
+../Library/microtbx-modbus/tbxmb_event.c:91:6:TbxMbEventTask	56	static
+../Library/microtbx-modbus/tbxmb_event.c:232:6:TbxMbEventPurge	24	static

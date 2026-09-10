@@ -1,0 +1,14 @@
+../Library/microtbx-modbus/tbxmb_common.h:125:24:TbxMbCommonExtractUInt16BE	3
+../Library/microtbx-modbus/tbxmb_common.h:152:20:TbxMbCommonStoreUInt16BE	3
+../Library/microtbx-modbus/tbxmb_client.c:68:14:TbxMbClientCreate	19
+../Library/microtbx-modbus/tbxmb_client.c:134:6:TbxMbClientFree	5
+../Library/microtbx-modbus/tbxmb_client.c:177:13:TbxMbClientProcessEvent	10
+../Library/microtbx-modbus/tbxmb_client.c:244:16:TbxMbClientTransceive	7
+../Library/microtbx-modbus/tbxmb_client.c:314:9:TbxMbClientReadCoils	29
+../Library/microtbx-modbus/tbxmb_client.c:464:9:TbxMbClientReadInputs	29
+../Library/microtbx-modbus/tbxmb_client.c:614:9:TbxMbClientReadInputRegs	26
+../Library/microtbx-modbus/tbxmb_client.c:736:9:TbxMbClientReadHoldingRegs	26
+../Library/microtbx-modbus/tbxmb_client.c:856:9:TbxMbClientWriteCoils	39
+../Library/microtbx-modbus/tbxmb_client.c:1045:9:TbxMbClientWriteHoldingRegs	34
+../Library/microtbx-modbus/tbxmb_client.c:1209:9:TbxMbClientDiagnostics	44
+../Library/microtbx-modbus/tbxmb_client.c:1445:9:TbxMbClientCustomFunction	25
